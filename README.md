@@ -1,20 +1,27 @@
+![logo](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5)
 <h1 align="center">Hi 👋, I'm Mohammed Shanavas P</h1>
 <h3 align="center">A passionate web developer with experience in creating dynamic and user-friendly websites. My journey in web development began when I discovered the power of turning ideas into fully functional, visually appealing websites that make a positive impact.</h3>
 
+<img align="right" alt="productive working" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanavas-98&label=Profile%20views&color=0e75b6&style=flat" alt="shanavas-98" /> </p>
 
-- 🔭 I’m currently working on [a movie rating web app, BingeWatch](https://bingewatchfun.netlify.app/)
+- 🔭 I’m currently working on a movie rating and reviewing web app, [BingeWatch](https://bingewatchfun.netlify.app/)
 
 - 🌱 I’m currently learning **React,Node JS, Express JS, Mongo DB**
 
-- 👨‍💻 All of my projects are available at [https://shanavas-98.github.io/Personal-Website/](https://shanavas-98.github.io/Personal-Website/)
+- 👨‍💻 All of my projects are available at [my personal website](https://shanavas-98.github.io/Personal-Website/)
 
 - 📫 How to reach me **shanavaswdr10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shanavas-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanavas-p" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shanavas-98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shanavas-98" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shanavas-p" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="shanavas-p" height="50" width="50" />
+</a>
+<a href="https://www.leetcode.com/shanavas-98" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shanavas-98" height="50" width="50" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
