@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanavas-98&label=Profile%20views&color=0e75b6&style=flat" alt="shanavas-98" /> </p>
 
-- 🔭 I’m currently working on a movie rating and reviewing web app, [BingeWatch](https://bingewatchfun.netlify.app/)
+- 🔭 I’m currently working on a booking app for rentals of rooms,resorts,apartments etc. , [RentPro](https://bingewatchfun.netlify.app/)
 
 - 🌱 I’m currently learning **React,Node JS, Express JS, Mongo DB**
 
